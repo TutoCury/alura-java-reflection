@@ -1,4 +1,4 @@
-package br.com.alura.java.reflection;
+package br.com.alura.java.reflection.aula1;
 
 import java.lang.reflect.Field;
 import java.util.ArrayList;

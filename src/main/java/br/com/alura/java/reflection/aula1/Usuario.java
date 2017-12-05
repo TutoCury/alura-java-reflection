@@ -1,4 +1,4 @@
-package br.com.alura.java.reflection;
+package br.com.alura.java.reflection.aula1;
 
 public class Usuario {
     
